@@ -7,7 +7,7 @@ My Web stack is SimpleAF HTML, CSS, BOOTSTRAP, Vanilla JS, SQL, PHP, Laravel, Do
 
 My ML stack is  Colab, Spyder, Keras, Matplotlib, Beautifulsoup, Numpy  ⭐⭐⭐⭐
 
-My competitive programming stack is C++, C++ memory visualizer, Rober lafore OOP book, Keely Abook on C, Practice, Visual studio ⭐⭐
+My competitive programming stack is C++, C++ memory visualizer, Rober lafore OOP book, Keely Abook on C, Visual studio ⭐⭐
 
 
                                     Thinking What will humans do when AI will dominate the world
