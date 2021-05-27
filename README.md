@@ -9,6 +9,9 @@ My ML stack is  Colab, Spyder, Keras, Matplotlib, Beautifulsoup, Numpy  ⭐⭐�
 
 My competitive programming stack is C++, C++ memory visualizer, Rober lafore OOP book, Keely Abook on C, Visual studio ⭐⭐
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Abubakar26/Abubakar26/github-readme-stats)
+
+
 
                                     Thinking What will humans do when AI will dominate the world
 
