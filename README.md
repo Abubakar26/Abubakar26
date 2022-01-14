@@ -1,13 +1,8 @@
-Hello peeps this is Abubakar you can also call me Bakar 👋
-
-I am a computer science grad 🎓 with majors in machine learning and data science 📈 and currently working with cognitive technical systems and EEG stuff related to 🧠
-Working on the solution to cure Aphasia using Machine learning and pattern recognition algorithms
-
-My Web stack is SimpleAF HTML, CSS, BOOTSTRAP, Vanilla JS, SQL, PHP, Laravel, Docker, VS code ⭐⭐⭐⭐
-
-My ML stack is  Colab, Spyder, Keras, Matplotlib, Beautifulsoup, Numpy  ⭐⭐⭐⭐
-
-My competitive programming stack is C++, C++ memory visualizer, Rober lafore OOP book, Keely Abook on C, Visual studio ⭐⭐
+👋 Halo, Iam @Abubakar26
+👀 I’m interested in software development, AI, Machine learning, Deep Learning, LVQ's.
+🌱 I’m currently working as Data Engineer (AWS,Python,Docker,JIRA,GIT,FASTAPI) @panthersolutionsGmbH
+💞️ I’m also working as a guest researcher at MAX PLANCK institute of human brain and cognitive sciences where I can learn abou Brain computer interface stuff and Implement it.
+📫 reach me on m.abubakar.asif@gmail.com
 
 
 
