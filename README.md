@@ -1,9 +1,7 @@
-* 👋 Halo, Iam @Abubakar26
-* 🌱 Data Engineer @ GWDG
+* 👋 Halo
 
 
 
 
-                                    Thinking What will humans do when AI will dominate the world
-
+                                    
 
